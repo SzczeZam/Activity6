@@ -1,0 +1,18 @@
+img {
+    width: 500px;
+}
+
+body {
+    box-sizing: border-box;
+    color: whitesmoke;
+    background: url("https://images.unsplash.com/photo-1504439471380-f2deda686566?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-size: 200px;
+}
+
+header {
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+    background: grey;
+    padding: 20px;
+}
